@@ -34,7 +34,7 @@ root                    (project root folder)
 +-- snake               (source code for game)
   +-- game              (specific game classes)
   +-- __main__.py       (entry point for program)
-  +-- constans.py       (constants for the game)
+  +-- constants.py       (constants for the game)
 +-- README.md           (general info)
 
 ```
